@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou buscando uma vaga de emprego
 - 📚 Estudando HTML, CSS e JavaScript
-- 🏫Cursando 3° período em Sistemas de Informação pela UFF
+- 🏫Cursando 4° período em Sistemas de Informação pela UFF
 - 📫 Email para contato: leonardollr2001@gmail.com
 <br>
 <div>
