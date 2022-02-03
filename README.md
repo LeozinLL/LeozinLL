@@ -1,6 +1,6 @@
 ### Olá, sou o Leonardo Lima 👋
 
-- 🔭 Atualmente estou buscando uma vaga de emprego
+- 🔭 Atualmente sou estagiário Front End na empresa Raise Sistemas
 - 📚 Estudando HTML, CSS e JavaScript
 - 🏫Cursando 4° período em Sistemas de Informação pela UFF
 - 📫 Email para contato: leonardollr2001@gmail.com
