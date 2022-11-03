@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente sou estagiário Front End na empresa Raise Sistemas
 - 📚 Estudando HTML, CSS e JavaScript
-- 🏫Cursando 5° período em Sistemas de Informação pela UFF
+- 🏫Cursando 6° período em Sistemas de Informação pela UFF
 - 📫 Email para contato: leonardollr2001@gmail.com
 <br>
 <div>
