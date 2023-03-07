@@ -1,16 +1,9 @@
 ### Olá, sou o Leonardo Lima 👋
 
 - 🔭 Atualmente sou estagiário Front End na empresa Raise Sistemas
-- 📚 Estudando HTML, CSS e JavaScript
+- 📚 Estudando HTML, CSS, JavaScript e React
 - 🏫Cursando 6° período em Sistemas de Informação pela UFF
 - 📫 Email para contato: leonardollr2001@gmail.com
-<br>
-<div>
-  <a href="https://github.com/LeozinLL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeozinLL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeozinLL&layout=compact&langs_count=7&theme=tokyonight"/>
-    <br
-</div>
     
   <br>
     
@@ -23,6 +16,5 @@
   ##
     
   <div>
-      <a href="https://instagram.com/leonardollr20" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/leonardo-lima-922a99199" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardollr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
