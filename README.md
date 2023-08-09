@@ -1,8 +1,8 @@
 ### Olá, sou o Leonardo Lima 👋
 
-- 🔭 Atualmente sou estagiário Front End na empresa Raise Sistemas
+- 🔭 Atualmente sou Desenvolvedor Front End na empresa E-inscrição
 - 📚 Estudando HTML, CSS, JavaScript e React
-- 🏫Cursando 6° período em Sistemas de Informação pela UFF
+- 🏫Cursando Sistemas de Informação pela Universidade Federal Fluminense
 - 📫 Email para contato: leonardollr2001@gmail.com
     
   <br>
@@ -10,8 +10,8 @@
   <img align="center" alt="Leozin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leozin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leozin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leozin-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Leozin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Leozin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Leozin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     
   ##
     
