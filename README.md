@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente sou Desenvolvedor Front End na empresa E-inscrição
 - 📚 Estudando TypeScript, React, Tailwind, entre outros
-- 🏫Cursando Sistemas de Informação pela Universidade Federal Fluminense
+- 🏫Bacharel em Sistemas de Informação pela Universidade Federal Fluminense
 - 📫 Email para contato: leonardollr2001@gmail.com
     
   <br>
